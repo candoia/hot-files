@@ -1,7 +1,16 @@
 {
-  "name": "Hot files",
-  "version": "0.0.1",
-  "author": "Ganesha Upadhyaya",
-  "description": "Shows top 10 hot files based on number of revisions",
-  "main": "main.html"
+  "name": "hotfiles",
+  "productName": "Hot files",
+  "version": "0.1.0",
+  "author": "Ganesha Upadhyaya<ganeshau@iastate.edu>",
+  "description": "Shows top 10 hot files based on number of revisions.",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/hotfiles"
+  },
+  "icon": {
+	"type": "fa",
+	"name": "pi-chart"
+  }
 }
