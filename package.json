@@ -1,5 +1,5 @@
 {
-  "name": "hotfiles",
+  "name": "hot-files",
   "productName": "Hot files",
   "version": "0.1.0",
   "author": "Ganesha Upadhyaya<ganeshau@iastate.edu>",
@@ -7,7 +7,7 @@
   "main": "main.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/candoia/hotfiles"
+    "url": "https://github.com/candoia/hot-files"
   },
   "icon": {
 	"type": "fa",
